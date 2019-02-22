@@ -4,6 +4,8 @@
 *.log
 *.pyc
 *.nfs*
+.swanproject
+*.npz
 
 __pycache__
 *.egg-info
