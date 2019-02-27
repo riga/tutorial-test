@@ -5,5 +5,3 @@ numpy
 scipy
 matplotlib
 scikit-learn
-lbn
-scinum
